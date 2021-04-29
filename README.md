@@ -12,7 +12,9 @@ The models here contained are companions to the work "S. Boecker et Al, An Integ
 Model Version 1 and 2 differs for the introduction of regulatory terms in the PFL and PYK reaction and the adaptation of some parameters (See "Supplementary File 3"). These changes were introduced to test hypoteses on the physiological response of E. coli subjected to high ATPase activity. 
 Exaustive information on the models can be find in the "Supplementary File 3" of the forementioned paper. 
 
-For Copasi documentation and download visit: http://copasi.org/
+For Copasi documentation and download visit: 
+
+http://copasi.org/
 
 # Description
 The model describes the central carbon and energy metabolism of E. coli growing under anaerobic conditions.
